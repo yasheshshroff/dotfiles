@@ -7,6 +7,8 @@ TODO:
 ```sh
 brew install gh # Alt for Linux: https://github.com/cli/cli#conda
 gh auth login
+git config --global user.name "Your Name"
+git config --global user.email you@example.com
 ```
 
 #### Conda

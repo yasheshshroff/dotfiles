@@ -1,6 +1,22 @@
 TODO:
 - Add vim specific info
 
+# Yash notes
+
+## Git
+```sh
+brew install gh # Alt for Linux: https://github.com/cli/cli#conda
+gh auth login
+```
+
+#### Conda
+
+| Install:                                 | Upgrade:                                |
+|------------------------------------------|-----------------------------------------|
+| `conda install gh --channel conda-forge` | `conda update gh --channel conda-forge` |
+
+
+
 # Mathias’s dotfiles
 
 ![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
